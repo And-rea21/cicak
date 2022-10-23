@@ -1,0 +1,9 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    position:relative;
+    align-items: center ;
+}
+body {
+    background-color: rgb(131, 233, 233);
+}
